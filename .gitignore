@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+extracted/*.csv
+extracted/*.xlsx
+!extracted/.gitkeep
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
